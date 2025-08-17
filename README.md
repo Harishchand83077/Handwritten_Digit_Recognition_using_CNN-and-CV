@@ -1,4 +1,4 @@
-# Denoising Diffusion Probabilistic Models 
+# Image-to-Image Translation 
 
 **Convolution Neural Network**
 A Convolutional Neural Network or CNN is a Deep Learning Algorithm which is very effective in handling image classification tasks. It is able to capture the Temporal and Spatial dependencies in an image with the help of filters or kernels
